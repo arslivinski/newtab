@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Chico's New Tab",
+  "name": "New Tab",
   "version": "1.0.0",
   "icons": {
     "16": "icons/16x16.png",
@@ -10,5 +10,11 @@
   },
   "chrome_url_overrides": {
     "newtab": "newtab.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "com.arslivinski.webextension.newtab",
+      "strict_min_version": "109.0"
+    }
   }
 }
