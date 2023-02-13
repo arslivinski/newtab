@@ -1,0 +1,19 @@
+{
+  "name": "newtab",
+  "description": "New Tab Web Extension",
+  "version": "1.0.0",
+  "license": "UNLICENCED",
+  "private": true,
+  "author": {
+    "name": "Anderson Slivinski",
+    "url": "https://arslivinski.com"
+  },
+  "homepage": "https://github.com/arslivinski/newtab",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslivinski/newtab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arslivinski/newtab/issues"
+  }
+}
