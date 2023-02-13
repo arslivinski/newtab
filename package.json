@@ -4,6 +4,12 @@
   "version": "1.0.0",
   "license": "UNLICENCED",
   "private": true,
+  "scripts": {
+    "lint": "addons-linter extension/"
+  },
+  "devDependencies": {
+    "addons-linter": "^5.28.0"
+  },
   "author": {
     "name": "Anderson Slivinski",
     "url": "https://arslivinski.com"
